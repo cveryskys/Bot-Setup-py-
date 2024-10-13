@@ -1,0 +1,2 @@
+# Bot-Setup-py-
+# DON'T USE UNLESS YK PYTHON :SOB:
