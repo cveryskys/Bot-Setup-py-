@@ -2,7 +2,7 @@
 # DON'T USE UNLESS YK PYTHON :SOB:
 
 
-Unsure u have the following ; 
+Ensure u have the following ; 
 
 a folder named commands (u will store all ur slash commands there lmfao)
 
